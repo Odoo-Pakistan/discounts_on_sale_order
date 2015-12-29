@@ -1,0 +1,7 @@
+!!first commit, code is incomplete.!!
+
+fixed discount amount on order has still to be done (not thrivial, since different order lines can have different tax rates)
+
+needs an onchange method
+
+still have to implement new discount types into invoices
